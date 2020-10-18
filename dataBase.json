@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "name": "Antaragni",
+      "venue": "Lecture Hall Complex, IIT Kanpur",
+      "timing": "17:00",
+      "date": "2020-10-19",
+      "organiser": "IIT Kanpur",
+      "id": 1
+    },
+    {
+      "name": "Rendezvous",
+      "venue": "Open Air Theatre, IIT Delhi",
+      "timing": "10:00",
+      "date": "2020-10-22",
+      "organiser": "IIT Delhi",
+      "id": 2
+    },
+    {
+      "name": "Srijan",
+      "venue": "Hockey Ground, IIT (ISM) Dhanbad",
+      "timing": "09:00",
+      "date": "2020-10-27",
+      "organiser": "IIT (ISM) Dhanbad",
+      "id": 3
+    },
+    {
+      "name": "Spring Fest",
+      "venue": "Seminar Hall, IIT Kharagpur",
+      "timing": "22:00",
+      "date": "2020-10-30",
+      "organiser": "IIT Kharagpur",
+      "id": 4
+    },
+    {
+      "name": "Mood Indigo",
+      "venue": "Red Square, IIT Bombay",
+      "timing": "10:00",
+      "date": "2020-10-14",
+      "organiser": "IIT Bombay",
+      "id": 5
+    },
+    {
+      "name": "Cultrang",
+      "venue": "Golden Quadrilateral, IIT Goa",
+      "timing": "13:30",
+      "date": "2020-10-23",
+      "organiser": "IIT Goa",
+      "id": 6
+    },
+    {
+      "name": "Sparsh",
+      "venue": "Magical Cube, NIT Surat",
+      "timing": "10:30",
+      "date": "2020-10-29",
+      "organiser": "NIT Surat",
+      "id": 7
+    },
+    {
+      "name": "Udgaar",
+      "venue": "East of Kailash Hills, Delhi",
+      "timing": "19:30",
+      "date": "2020-09-15",
+      "organiser": "ISKCON Delhi",
+      "id": 8
+    },
+    {
+      "name": "Viplava",
+      "venue": "Radha ParthaSarthi Temple",
+      "timing": "10:45",
+      "date": "2020-10-22",
+      "organiser": "ISKCON Mumbai",
+      "id": 9
+    },
+    {
+      "name": "Saarang",
+      "venue": "Splash Triangles, IIT Madras",
+      "timing": "21:45",
+      "date": "2020-10-15",
+      "organiser": "IIT Madras",
+      "id": 10
+    }
+  ]
+}
